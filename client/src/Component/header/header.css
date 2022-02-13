@@ -1,0 +1,12 @@
+.menuBurger {
+    width:2vmax;
+    height:3.5vmax
+}
+
+
+.speedDialIcon{
+    display: block;
+    width: 71px;
+    height: 58px;
+    border-radius: 50%;
+}

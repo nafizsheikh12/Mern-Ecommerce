@@ -1,0 +1,23 @@
+.Loading{
+    width:100vw;
+    height:100vh;
+    background:#fff;
+    display:grid;
+    place-items: center;
+    max-width: 100%;
+}
+
+.Loading > div{
+    width: 10vmax;
+    background-color: tomato;
+    height: 10vmax;
+    border-bottom: 5px solid rgb(110,110,110);
+    border-radius: 50%;
+    animation: rotate 800ms linear infinite;
+}
+
+@keyframes rotate {
+    to{
+        transform:rotateZ(-360deg)
+    }
+}

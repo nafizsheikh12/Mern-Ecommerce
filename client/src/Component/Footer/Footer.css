@@ -1,0 +1,29 @@
+footer {
+    margin-top: 9rem;
+    background: #454546;
+    padding: 38px;
+    text-align: center;
+}
+
+.leftfooter.col-lg-3 h4 {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.rightfooter.col-lg-3 h3 {
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 19px;
+}
+
+.rightfooter.col-lg-3 h2 {
+    font-size: 12px;
+    color: #fff;
+}
+
+.middlefooter h2 {
+    font-size: 33px;
+    color: #e94141;
+    margin-top: 15px;
+}
